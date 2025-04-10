@@ -1,4 +1,5 @@
 # My DSA Guide
+Data Structures and Algorithms (DSA) form the foundation of efficient programming by organizing data and solving problems logically and optimally. Mastering DSA helps in writing faster, more efficient code and is essential for technical interviews and real-world applications.
 
 <br/>
 
