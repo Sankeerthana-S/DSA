@@ -2,7 +2,7 @@
 
 <br/>
 
-### Basics of Programming
+## Basics of Programming
 - Time and Space Complexity (Big O Notation)
 - Recursion (base case, recursive case)
 - Iteration vs Recursion
